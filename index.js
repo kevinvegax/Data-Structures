@@ -15,4 +15,5 @@ class LinkedList{
   }
 }
 
+
 const linkedList1 = new LinkedList();
